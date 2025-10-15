@@ -164,6 +164,23 @@ Este proyecto está bajo la **Licencia Creative Commons Attribution-NonCommercia
 
 Ver [TERMS.md](TERMS.md) para términos de uso específicos.
 
+## 🗣️ Testimonios
+
+¿Esta guía te ayudó a conseguir entrevistas u ofertas? ¡Nos encantaría leer tu historia!
+
+- Envía un PR agregando tu testimonio en `06-casos-exito/testimonios.md`
+- Escribe en Markdown, con tus propias palabras. Sugerencia de formato:
+
+```markdown
+### [Nombre, País] - [Perfil] ([Año])
+- Antes: [tu situación inicial]
+- Después: [logro concreto]
+- Estrategia: [qué aplicaste de la guía]
+- Tips: [1-2 consejos para otros]
+```
+
+Al enviar tu testimonio, aceptas que lo incluyamos públicamente en el repositorio.
+
 ## 🙏 Agradecimientos
 
 Gracias a todos los desarrolladores de LATAM que han compartido sus experiencias y han hecho posible esta guía.

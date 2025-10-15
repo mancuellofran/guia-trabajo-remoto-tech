@@ -164,6 +164,23 @@ This project is under the **Creative Commons Attribution-NonCommercial-ShareAlik
 
 See [TERMS-EN.md](TERMS-EN.md) for specific terms of use.
 
+## 🗣️ Testimonials
+
+Did this guide help you get interviews or offers? We’d love to hear your story!
+
+- Send a PR adding your testimonial to `06-casos-exito/testimonios.md`
+- Write in Markdown, in your own words. Suggested format:
+
+```markdown
+### [Name, Country] - [Role] ([Year])
+- Before: [your starting point]
+- After: [specific achievement]
+- Strategy: [what you applied from the guide]
+- Tips: [1-2 tips for others]
+```
+
+By submitting your testimonial, you agree to include it publicly in the repository.
+
 ## 🙏 Acknowledgments
 
 Thanks to all LATAM developers who have shared their experiences and made this guide possible.
