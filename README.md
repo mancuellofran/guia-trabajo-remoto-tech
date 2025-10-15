@@ -129,7 +129,7 @@ Esta guía incluye la metodología Harvard para crear CVs que realmente funcione
 
 Ver [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
 
-## 📞 Comunidad
+## 📞 Autor / Contacto
 
 - 💬 [Discord](https://discord.gg/mR2wvsawbV)
 - 🌐 [Sitio Web](https://mancuellofran.com)

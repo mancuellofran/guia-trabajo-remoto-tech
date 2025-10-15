@@ -129,7 +129,7 @@ Do you have experience working remotely? Your contribution is valuable!
 
 See [CONTRIBUTING-EN.md](CONTRIBUTING-EN.md) for more details.
 
-## 📞 Community
+## 📞 Author / Contact
 
 - 💬 [Discord](https://discord.gg/mR2wvsawbV)
 - 🌐 [Website](https://mancuellofran.com)
