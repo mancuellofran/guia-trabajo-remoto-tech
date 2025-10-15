@@ -108,9 +108,10 @@ Si encuentras a alguien usando este contenido de manera inadecuada:
 
 Para preguntas sobre estos términos o solicitudes de uso comercial:
 
-- **Email**: [tu-email@ejemplo.com]
-- **GitHub**: [tu-usuario-github]
-- **LinkedIn**: [tu-perfil-linkedin]
+- **Email**: [hola@mancuellofran.com](mailto:hola@mancuellofran.com)
+- **GitHub**: [mancuellofran](https://github.com/mancuellofran)
+- **LinkedIn**: [https://www.linkedin.com/in/mancuellofran/](https://www.linkedin.com/in/mancuellofran/)
+- **Sitio Web**: [mancuellofran.com](https://mancuellofran.com)
 
 ---
 

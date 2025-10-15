@@ -161,9 +161,9 @@ const ejemplo = "Hola mundo";
 Si tienes preguntas sobre cómo contribuir:
 
 - **GitHub Issues**: Para reportar bugs o sugerir features
-- **Discord**: Para discusiones en tiempo real
-- **Email**: [tu-email@ejemplo.com]
-- **Twitter**: [@tu-usuario]
+- **Discord**: [https://discord.gg/mR2wvsawbV](https://discord.gg/mR2wvsawbV) - Para discusiones en tiempo real
+- **Email**: [hola@mancuellofran.com](mailto:hola@mancuellofran.com)
+- **LinkedIn**: [https://www.linkedin.com/in/mancuellofran/](https://www.linkedin.com/in/mancuellofran/)
 
 ## 🙏 Reconocimientos
 

@@ -5,7 +5,8 @@
 [![Contribuciones Bienvenidas](https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen.svg)](CONTRIBUTING.md)
 [![Licencia CC BY-NC-SA 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-blue.svg)](LICENSE)
 [![LATAM Focus](https://img.shields.io/badge/Enfoque-LATAM-orange.svg)]()
-[![Uso No Comercial](https://img.shields.io/badge/Uso-No%20Comercial-red.svg)]()
+[![⚠️ NO COMERCIAL](https://img.shields.io/badge/⚠️-NO%20COMERCIAL-red.svg)](NOTICE.md)
+[![Uso Gratuito](https://img.shields.io/badge/Uso-Gratuito-brightgreen.svg)]()
 
 ## 🎯 ¿Para quién es esta guía?
 
@@ -122,29 +123,38 @@ Ver [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
 
 ## 📞 Comunidad
 
-- 💬 [Discord](https://discord.gg/trabajo-remoto-tech)
-- 📱 [Telegram](https://t.me/trabajo_remoto_tech)
-- 🐦 [Twitter](https://twitter.com/remoto_tech_latam)
-- 📧 [Email](mailto:hola@trabajoremototech.com)
+- 💬 [Discord](https://discord.gg/mR2wvsawbV)
+- 🌐 [Sitio Web](https://mancuellofran.com)
+- 📱 [Instagram](https://www.instagram.com/mancuellofran/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mancuellofran/)
+- 📧 [Email](mailto:hola@mancuellofran.com)
+
+## ⚠️ **AVISO IMPORTANTE - PROHIBICIÓN DE COMERCIALIZACIÓN**
+
+### 🚨 **ESTE CONTENIDO ESTÁ PROTEGIDO CONTRA USO COMERCIAL**
+
+**❌ PROHIBIDO ABSOLUTAMENTE:**
+- Vender este contenido o crear cursos pagos
+- Monetizar a través de masterclasses o programas de pago
+- Usar en productos comerciales sin autorización
+- Crear contenido derivado con fines de lucro
+
+**✅ PERMITIDO ÚNICAMENTE:**
+- Uso personal y educativo GRATUITO
+- Compartir con amigos y colegas
+- Traducir y adaptar para uso personal
+
+**📞 Para uso comercial:** [hola@mancuellofran.com](mailto:hola@mancuellofran.com)
+
+Ver [NOTICE.md](NOTICE.md) para detalles completos y [LICENSE](LICENSE) para términos legales.
+
+---
 
 ## 📄 Licencia
 
 Este proyecto está bajo la **Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 
-### ✅ **Puedes:**
-- Usar, compartir y modificar este contenido libremente
-- Crear obras derivadas basadas en esta guía
-- Usar para fines educativos y personales
-
-### ❌ **NO puedes:**
-- Usar este contenido para fines comerciales sin permiso
-- Monetizar este contenido sin autorización
-- Usar en productos comerciales sin consentimiento
-
-### 📞 **Para uso comercial:**
-Si deseas usar este contenido para fines comerciales, contacta al autor para obtener permisos específicos.
-
-Ver [LICENSE](LICENSE) para más detalles y [TERMS.md](TERMS.md) para términos de uso específicos.
+Ver [TERMS.md](TERMS.md) para términos de uso específicos.
 
 ## 🙏 Agradecimientos
 
