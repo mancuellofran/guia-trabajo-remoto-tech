@@ -337,9 +337,9 @@ function binarySearch(nums, target) {
 ```markdown
 | Fecha | Problema | Dificultad | Tiempo | Patrón | Notas |
 |-------|----------|------------|--------|--------|-------|
-| 2024-01-15 | Two Sum | Easy | 15min | Hash Map | Primera vez |
-| 2024-01-15 | Valid Parentheses | Easy | 20min | Stack | Casos edge |
-| 2024-01-16 | Maximum Subarray | Medium | 30min | DP | Kadane's algo |
+| 2025-01-15 | Two Sum | Easy | 15min | Hash Map | Primera vez |
+| 2025-01-15 | Valid Parentheses | Easy | 20min | Stack | Casos edge |
+| 2025-01-16 | Maximum Subarray | Medium | 30min | DP | Kadane's algo |
 ```
 
 ### Métricas Importantes

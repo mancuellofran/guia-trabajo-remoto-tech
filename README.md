@@ -112,7 +112,7 @@ Esta guía incluye la metodología Harvard para crear CVs que realmente funcione
 ## 🌟 Características Especiales
 
 - ✅ **Enfoque LATAM**: Salarios, empresas y casos específicos de la región
-- ✅ **Actualizado 2024**: Tendencias actuales del mercado remoto
+- ✅ **Actualizado 2025**: Tendencias actuales del mercado remoto
 - ✅ **Plantillas descargables**: CVs, emails, presentaciones
 - ✅ **Checklist de verificación**: Para cada paso del proceso
 - ✅ **Comunidad activa**: Discord y grupos de apoyo

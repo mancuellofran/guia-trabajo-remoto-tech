@@ -115,7 +115,7 @@ Para preguntas sobre estos términos o solicitudes de uso comercial:
 
 ---
 
-**Última actualización**: Enero 2024
+**Última actualización**: Octubre 2025
 **Versión**: 1.0
 
 ---

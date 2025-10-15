@@ -112,7 +112,7 @@ This guide includes the Harvard methodology for creating CVs that actually work:
 ## 🌟 Special Features
 
 - ✅ **LATAM Focus**: Salaries, companies and specific cases from the region
-- ✅ **Updated 2024**: Current trends in the remote market
+- ✅ **Updated 2025**: Current trends in the remote market
 - ✅ **Downloadable templates**: CVs, emails, presentations
 - ✅ **Verification checklists**: For each step of the process
 - ✅ **Active community**: Discord and support groups

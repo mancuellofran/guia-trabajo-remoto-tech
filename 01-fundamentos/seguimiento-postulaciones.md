@@ -98,9 +98,9 @@
 ```markdown
 | Fecha | Empresa | Posición | Canal | Estado | Próximo Paso | Notas |
 |-------|---------|----------|-------|--------|--------------|-------|
-| 2024-01-15 | TechCorp | Frontend Dev | LinkedIn | Aplicado | Esperando respuesta | Envié CV y portfolio |
-| 2024-01-16 | StartupXYZ | Full Stack | Referral | Entrevista | Entrevista técnica | Recomendado por ex-colega |
-| 2024-01-17 | BigCorp | Senior Dev | Website | Rechazado | N/A | No cumplía requisitos |
+| 2025-01-15 | TechCorp | Frontend Dev | LinkedIn | Aplicado | Esperando respuesta | Envié CV y portfolio |
+| 2025-01-16 | StartupXYZ | Full Stack | Referral | Entrevista | Entrevista técnica | Recomendado por ex-colega |
+| 2025-01-17 | BigCorp | Senior Dev | Website | Rechazado | N/A | No cumplía requisitos |
 ```
 
 ## 📱 Template de Google Sheets

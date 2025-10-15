@@ -43,11 +43,11 @@ If you find someone using this content commercially without authorization:
 
 ---
 
-**© 2024 Mancuello Fran - All rights reserved**
+**© 2025 mancuellofran - All rights reserved**
 
 **License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-**Last updated:** January 2024
+**Last updated:** October 2025
 
 ---
 

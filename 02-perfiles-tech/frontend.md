@@ -21,7 +21,7 @@ Un Frontend Developer es responsable de crear la **interfaz de usuario** que los
 - **TypeScript**: JavaScript tipado (recomendado)
 
 ### Frameworks y Librerías
-- **React**: Librería más popular (2024)
+- **React**: Librería más popular (2025)
 - **Vue.js**: Alternativa más simple
 - **Angular**: Framework completo
 - **Svelte**: Compilador optimizado
