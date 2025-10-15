@@ -147,7 +147,7 @@ npm run dev
 
 ## 📄 Licencia
 
-[MIT License](LICENSE)
+[Creative Commons BY-NC-SA 4.0 License](LICENSE)
 ```
 
 ### 2. Estructura de Código Profesional

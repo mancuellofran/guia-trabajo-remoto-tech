@@ -3,10 +3,18 @@
 > **Para todos los que sueñan con trabajar desde casa, estar cerca de su familia y mejorar su calidad de vida**
 
 [![Contribuciones Bienvenidas](https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen.svg)](CONTRIBUTING.md)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING-EN.md)
 [![Licencia CC BY-NC-SA 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-blue.svg)](LICENSE)
 [![LATAM Focus](https://img.shields.io/badge/Enfoque-LATAM-orange.svg)]()
 [![⚠️ NO COMERCIAL](https://img.shields.io/badge/⚠️-NO%20COMERCIAL-red.svg)](NOTICE.md)
 [![Uso Gratuito](https://img.shields.io/badge/Uso-Gratuito-brightgreen.svg)]()
+
+## 🌍 **Idiomas / Languages**
+
+- 🇪🇸 **[Español (Original)](README.md)** - Guía completa en español
+- 🇺🇸 **[English](README-EN.md)** - Complete guide in English
+
+---
 
 ## 🎯 ¿Para quién es esta guía?
 

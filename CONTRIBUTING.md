@@ -175,7 +175,7 @@ Todas las contribuciones serán reconocidas en:
 
 ## 📄 Licencia
 
-Al contribuir, aceptas que tu código será licenciado bajo la [Licencia MIT](LICENSE).
+Al contribuir, aceptas que tu código será licenciado bajo la [Licencia Creative Commons BY-NC-SA 4.0](LICENSE).
 
 ---
 
